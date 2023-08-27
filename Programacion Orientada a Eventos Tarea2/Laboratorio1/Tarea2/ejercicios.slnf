@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "..\\..\\..\\..\\Pictures\\EJERCICIOSS\\Ejerciciodelab\\Ejerciciodelab.sln",
+    "projects": [
+      "ClassLibrary1\\ClassLibrary1.csproj",
+      "Ejerciciodelab\\Ejerciciodelab.csproj"
+    ]
+  }
+}
